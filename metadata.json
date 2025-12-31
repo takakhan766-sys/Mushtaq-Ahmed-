@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mela Carnival: The Grand Indian Fair",
+  "description": "Experience the magic of a traditional Indian fair with mini-games, a mystical fortune teller powered by Gemini, and a prize booth to spend your hard-earned tickets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
